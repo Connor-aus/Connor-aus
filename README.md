@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Connor-aus
 - 👀 I’m interested in software development
-- 🌱 I’m currently stufying a Master's of IT (software dev)
+- 🌱 I’m currently studying a Master's of IT (software dev)
 - 💞️ I’m looking to collaborate on interesting projects that will expand my knowledge
 - 📫 You can reach me at cmm.mcsweeney@gmail.com
 
